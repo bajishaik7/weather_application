@@ -1,0 +1,4 @@
+#Tue Aug 08 23:09:26 IST 2023
+base.0=C\:\\Users\\AKBAR SALEEM SHAIK\\OneDrive\\Desktop\\n\\Tasks\\weather_application\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
